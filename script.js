@@ -11,3 +11,4 @@ function openNav() {
 
   //The idea is to scroll the page to the required section on selecting the option from menu.
   //By doing so, only one html file is required.
+  //But I am still trying to figure out stuff.
